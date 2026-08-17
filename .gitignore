@@ -1,0 +1,19 @@
+# Documentos Word de trabajo interno (no se publican en el repo)
+*.docx
+~$*.docx
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Versión original sin limpiar (se conserva solo en local como backup)
+Notebook/
+
+# Entornos y cachés de Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
